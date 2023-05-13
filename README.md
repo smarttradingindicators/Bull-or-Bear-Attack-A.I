@@ -1,4 +1,4 @@
-# 🚀 Bull or Bear Attack Direction Indicator 🐂🐻
+# 🚀 Bull or Bear Attack Direction Indicator A.I🐂🐻
 
 ![Bull or Bear Attack Direction](Bull%20And%20Bear%20Attack%20Direction%201D.png)
 
