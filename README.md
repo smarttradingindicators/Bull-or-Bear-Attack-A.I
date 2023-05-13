@@ -1,6 +1,6 @@
 # 🚀 Bull or Bear Attack Direction Indicator 🐂🐻
 
-![Bull or Bear Attack Direction](Bull%20or%20Bear%20Attack%20Direction%201D.png)
+![Bull or Bear Attack Direction](Bull%20And%20Bear%20Attack%20Direction%201D.png)
 
 Welcome to the **Bull or Bear Attack Direction Indicator**, a next-generation trading tool! This innovative instrument leverages the power of artificial intelligence (AI) and advanced technical analysis to deliver accurate and quick buy and sell signals in the financial market, supporting traders in their pursuit of informed decision-making, minimized risk, and maximized profitability.
 
